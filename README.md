@@ -43,7 +43,6 @@ This project explores how to render and interact with complex geometric spaces u
 - **Canvas & Modifier.graphicsLayer**
 - **SensorManager (TYPE_ROTATION_VECTOR)**
 - **Coroutines** for animation & drag handling
-- **Clean MVVM** architecture
 
 ---
 
