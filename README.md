@@ -64,4 +64,4 @@ This project explores how to render and interact with complex geometric spaces u
 
 ---
 
-> Made with ☕️, 🚀 and a touch of higher-dimensional geometry.
+> Made with ☕️ and a touch of higher-dimensional geometry ^^.
